@@ -9,7 +9,6 @@ interface RecipeCardListProps {
   onFavoriteToggle?: (mealId: number) => void;
   favorites?: number[];
   isGridView?: boolean;
-  numColumns?: number;
 }
 
 export const RecipeCardList: React.FC<RecipeCardListProps> = ({
