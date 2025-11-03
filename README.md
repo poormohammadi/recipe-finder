@@ -15,6 +15,18 @@ This project was built as a test project for a technical assessment. It implemen
 
   
 
+## 🎬 Demo
+
+  
+
+<video src="https://github.com/poormohammadi/recipe-finder-demo/raw/refs/heads/main/recipe-finder-demo.mp4" controls width="50%"></video>
+
+  
+
+**[📥 Download Demo Video](https://github.com/poormohammadi/recipe-finder-demo/raw/refs/heads/main/recipe-finder-demo.mp4)**
+
+  
+
 ## 🚀 Getting Started
 
   
